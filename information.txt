@@ -1,0 +1,14 @@
+To start the react app first run these commands on your terminal
+--> npx create-react-app my-app 
+--> then run the command cd my-app (to use the right path for react)
+--> npm start 
+
+HTML used in App.js and css use in App.css
+
+JSX has some rules for html :
+use first return {
+    <> write html here</>
+}
+use 'HTMLFor' insted of 'for'
+use 'ClassName' insted of 'class'
+use {} on where you want to write js in html
