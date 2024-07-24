@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactwebsite/static/css/main.5c15e30a.css",
-    "main.js": "/reactwebsite/static/js/main.14aaf2f2.js",
+    "main.css": "/reactwebsite/static/css/main.40850265.css",
+    "main.js": "/reactwebsite/static/js/main.812d9ece.js",
     "static/js/453.ed3810f9.chunk.js": "/reactwebsite/static/js/453.ed3810f9.chunk.js",
     "static/media/FINAL.mp4": "/reactwebsite/static/media/FINAL.2b3cb3a6de61aa34cbb0.mp4",
     "static/media/backwall.png": "/reactwebsite/static/media/backwall.b4385a86a0b6de724ac2.png",
@@ -10,12 +10,12 @@
     "static/media/AAkhrisawal.jpg": "/reactwebsite/static/media/AAkhrisawal.44d48dff0b4438ce1695.jpg",
     "static/media/Udaan.jpg": "/reactwebsite/static/media/Udaan.853aca648b57088c63b0.jpg",
     "index.html": "/reactwebsite/index.html",
-    "main.5c15e30a.css.map": "/reactwebsite/static/css/main.5c15e30a.css.map",
-    "main.14aaf2f2.js.map": "/reactwebsite/static/js/main.14aaf2f2.js.map",
+    "main.40850265.css.map": "/reactwebsite/static/css/main.40850265.css.map",
+    "main.812d9ece.js.map": "/reactwebsite/static/js/main.812d9ece.js.map",
     "453.ed3810f9.chunk.js.map": "/reactwebsite/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c15e30a.css",
-    "static/js/main.14aaf2f2.js"
+    "static/css/main.40850265.css",
+    "static/js/main.812d9ece.js"
   ]
 }
