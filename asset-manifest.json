@@ -1,22 +1,21 @@
 {
   "files": {
     "main.css": "/reactwebsite/static/css/main.db03da78.css",
-    "main.js": "/reactwebsite/static/js/main.7954ac41.js",
+    "main.js": "/reactwebsite/static/js/main.a99adf5e.js",
     "static/js/453.ed3810f9.chunk.js": "/reactwebsite/static/js/453.ed3810f9.chunk.js",
     "static/media/FINAL.mp4": "/reactwebsite/static/media/FINAL.2b3cb3a6de61aa34cbb0.mp4",
     "static/media/Mayank.jpeg": "/reactwebsite/static/media/Mayank.638ceab6024cb471775f.jpeg",
     "static/media/valentine.jpg": "/reactwebsite/static/media/valentine.0db4665970af864af9d2.jpg",
     "static/media/backstar.jpg": "/reactwebsite/static/media/backstar.36e439734e6907649348.jpg",
-    "static/media/money.jpg": "/reactwebsite/static/media/money.145b7efed3d0255cc529.jpg",
     "static/media/AAkhrisawal.jpg": "/reactwebsite/static/media/AAkhrisawal.44d48dff0b4438ce1695.jpg",
     "static/media/Udaan.jpg": "/reactwebsite/static/media/Udaan.853aca648b57088c63b0.jpg",
     "index.html": "/reactwebsite/index.html",
     "main.db03da78.css.map": "/reactwebsite/static/css/main.db03da78.css.map",
-    "main.7954ac41.js.map": "/reactwebsite/static/js/main.7954ac41.js.map",
+    "main.a99adf5e.js.map": "/reactwebsite/static/js/main.a99adf5e.js.map",
     "453.ed3810f9.chunk.js.map": "/reactwebsite/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db03da78.css",
-    "static/js/main.7954ac41.js"
+    "static/js/main.a99adf5e.js"
   ]
 }
