@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/reactwebsite/static/css/main.dbc49fbb.css",
-    "main.js": "/reactwebsite/static/js/main.22f286ce.js",
+    "main.css": "/reactwebsite/static/css/main.b1b4807a.css",
+    "main.js": "/reactwebsite/static/js/main.7e176ca8.js",
     "static/js/453.ed3810f9.chunk.js": "/reactwebsite/static/js/453.ed3810f9.chunk.js",
     "static/media/FINAL.mp4": "/reactwebsite/static/media/FINAL.2b3cb3a6de61aa34cbb0.mp4",
-    "static/media/b1.png": "/reactwebsite/static/media/b1.4eeec5dd74b357e1712f.png",
+    "static/media/b3.png": "/reactwebsite/static/media/b3.75030cf4a0f0551a75f6.png",
     "static/media/Mayank.jpeg": "/reactwebsite/static/media/Mayank.638ceab6024cb471775f.jpeg",
     "static/media/valentine.jpg": "/reactwebsite/static/media/valentine.0db4665970af864af9d2.jpg",
     "static/media/AAkhrisawal.jpg": "/reactwebsite/static/media/AAkhrisawal.44d48dff0b4438ce1695.jpg",
     "static/media/Udaan.jpg": "/reactwebsite/static/media/Udaan.853aca648b57088c63b0.jpg",
     "index.html": "/reactwebsite/index.html",
-    "main.dbc49fbb.css.map": "/reactwebsite/static/css/main.dbc49fbb.css.map",
-    "main.22f286ce.js.map": "/reactwebsite/static/js/main.22f286ce.js.map",
+    "main.b1b4807a.css.map": "/reactwebsite/static/css/main.b1b4807a.css.map",
+    "main.7e176ca8.js.map": "/reactwebsite/static/js/main.7e176ca8.js.map",
     "453.ed3810f9.chunk.js.map": "/reactwebsite/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbc49fbb.css",
-    "static/js/main.22f286ce.js"
+    "static/css/main.b1b4807a.css",
+    "static/js/main.7e176ca8.js"
   ]
 }
